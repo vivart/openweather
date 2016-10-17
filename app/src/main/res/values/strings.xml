@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Open Weather</string>
+    <string name="temperature">%1$.2f\u2103</string>
+    <string name="humidity">Humidity: %1$.2f%%</string>
+    <string name="pressure">Pressure: %1$.2f</string>
+</resources>
